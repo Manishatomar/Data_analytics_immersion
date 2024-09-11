@@ -28,7 +28,7 @@ Machine Learning Part 2:
 Sourcing & Analyzing Time-Series Data:
 -Subsetting, wrangling, and cleaning time-series data -Time series analysis: decomposition -Testing for stationarity -Stationarizing the Federal Reserve Economic Data
 
-Link to Data Visualization: (https://public.tableau.com/app/profile/manisha.tomar/viz/Exercise6_7CreatingDataDashboards_17260148663490/Story1)
+Link to Data Visualization (https://public.tableau.com/app/profile/manisha.tomar/viz/Exercise6_7CreatingDataDashboards_17260148663490/Story1)
 
 Portafolio
 PDF File contains the Portafolio

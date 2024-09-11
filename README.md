@@ -6,7 +6,7 @@ This repository contains Jupyter noteboos used in the Data Analysis exercises in
 
 Exercises includes the following activities:
 
-Data cleaning:
+## Data cleaning:
 -Handling missing Values
 -Removing Duplicates
 -Datatype Issues
